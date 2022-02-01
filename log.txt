@@ -1,0 +1,4 @@
+
+> movie-analyst-ui@1.0.0 debug
+> node --inspect server.js
+
