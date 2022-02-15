@@ -1,7 +1,7 @@
 // Declare our dependencies
 var express = require('express');
 var request = require('superagent');
-var backendHost = process.env.BACK_HOST || '192.168.33.11';
+var backendHost = process.env.BACK_HOST || 'con_api';
 // Create our express app
 var app = express();
 
